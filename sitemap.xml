@@ -2,30 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://hexo2.xiaolongsu.cn/about/index.html</loc>
+    <loc>http://hexo2.xiaolongsu.cn/friends/index.html</loc>
     
-    <lastmod>2021-07-20</lastmod>
+    <lastmod>2021-07-22</lastmod>
     
   </url>
   
   <url>
-    <loc>http://hexo2.xiaolongsu.cn/tools/index.html</loc>
+    <loc>http://hexo2.xiaolongsu.cn/about/index.html</loc>
     
-    <lastmod>2021-07-20</lastmod>
+    <lastmod>2021-07-22</lastmod>
     
   </url>
   
   <url>
     <loc>http://hexo2.xiaolongsu.cn/tags/index.html</loc>
     
-    <lastmod>2021-07-20</lastmod>
+    <lastmod>2021-07-22</lastmod>
     
   </url>
   
   <url>
     <loc>http://hexo2.xiaolongsu.cn/categories/index.html</loc>
     
-    <lastmod>2021-07-20</lastmod>
+    <lastmod>2021-07-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hexo2.xiaolongsu.cn/tools/index.html</loc>
+    
+    <lastmod>2021-07-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hexo2.xiaolongsu.cn/contact/index.html</loc>
+    
+    <lastmod>2021-07-22</lastmod>
     
   </url>
   
